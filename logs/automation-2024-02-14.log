@@ -1,0 +1,48 @@
+16:18:49.420 [main] INFO  testCases.TC_03LanguageLearning - first language and different levels  are selected .
+16:30:35.168 [main] INFO  testCases.TC_03LanguageLearning - starts to search language learning .
+16:30:44.613 [main] INFO  testCases.TC_03LanguageLearning - successfully searched language learning .
+16:30:44.939 [main] INFO  testCases.TC_03LanguageLearning - starts to filter courses by selecting different level and language .
+16:32:00.573 [main] INFO  testCases.TC_03LanguageLearning - first language and different levels  are selected .
+16:33:45.439 [main] INFO  testCases.TC_03LanguageLearning - starts to search language learning .
+16:33:57.912 [main] INFO  testCases.TC_03LanguageLearning - successfully searched language learning .
+16:33:58.462 [main] INFO  testCases.TC_03LanguageLearning - starts to filter courses by selecting different level and language .
+16:35:22.434 [main] INFO  testCases.TC_03LanguageLearning - first language and different levels  are selected .
+16:36:38.508 [main] INFO  testCases.TC_03LanguageLearning - second language and different levels are selected .
+16:37:56.738 [main] INFO  testCases.TC_03LanguageLearning - third language and different levels are  selected .
+16:39:14.326 [main] INFO  testCases.TC_03LanguageLearning - fourth language and different levels are  selected .
+16:40:32.535 [main] INFO  testCases.TC_03LanguageLearning - fifth language and different levels are selected .
+16:43:24.570 [main] INFO  testCases.TC_02Webdevelopment - start to search webdevelopment courses in search box .
+16:43:36.928 [main] INFO  testCases.TC_02Webdevelopment - searching of webdevelopment courses is done successfully.
+16:43:37.540 [main] INFO  testCases.TC_02Webdevelopment - starts to select level.
+16:43:40.197 [main] INFO  testCases.TC_02Webdevelopment - level is selected after searching webdevelopment.
+16:43:41.467 [main] INFO  testCases.TC_02Webdevelopment - starts to select language.
+16:43:42.659 [main] INFO  testCases.TC_02Webdevelopment - language is successfully selected.
+16:43:43.999 [main] INFO  testCases.TC_02Webdevelopment - starts to scroll up the page.
+16:43:44.048 [main] INFO  testCases.TC_02Webdevelopment - page is scrolled up successfully.
+16:43:44.536 [main] INFO  testCases.TC_02Webdevelopment - starts to display the first course course details.
+16:43:48.957 [main] INFO  testCases.TC_02Webdevelopment - first course details is displayed successfully.
+16:43:49.334 [main] INFO  testCases.TC_02Webdevelopment - starts to display the second course course details.
+16:43:49.656 [main] INFO  testCases.TC_02Webdevelopment - second course details is displayed successfully.
+16:48:29.451 [main] INFO  testCases.TC_02Webdevelopment - start to search webdevelopment courses in search box .
+16:48:39.338 [main] INFO  testCases.TC_02Webdevelopment - searching of webdevelopment courses is done successfully.
+16:48:39.991 [main] INFO  testCases.TC_02Webdevelopment - starts to select level.
+16:48:42.425 [main] INFO  testCases.TC_02Webdevelopment - level is selected after searching webdevelopment.
+16:48:42.731 [main] INFO  testCases.TC_02Webdevelopment - starts to select language.
+16:48:44.887 [main] INFO  testCases.TC_02Webdevelopment - language is successfully selected.
+16:48:45.991 [main] INFO  testCases.TC_02Webdevelopment - starts to scroll up the page.
+16:48:46.038 [main] INFO  testCases.TC_02Webdevelopment - page is scrolled up successfully.
+16:48:46.548 [main] INFO  testCases.TC_02Webdevelopment - starts to display the first course course details.
+16:48:51.818 [main] INFO  testCases.TC_02Webdevelopment - first course details is displayed successfully.
+16:48:52.228 [main] INFO  testCases.TC_02Webdevelopment - starts to display the second course course details.
+16:48:52.569 [main] INFO  testCases.TC_02Webdevelopment - second course details is displayed successfully.
+16:51:00.934 [main] INFO  testCases.TC_02Webdevelopment - start to search webdevelopment courses in search box .
+16:51:11.326 [main] INFO  testCases.TC_02Webdevelopment - searching of webdevelopment courses is done successfully.
+16:51:12.052 [main] INFO  testCases.TC_02Webdevelopment - starts to select level.
+16:51:14.771 [main] INFO  testCases.TC_02Webdevelopment - level is selected after searching webdevelopment.
+16:51:15.158 [main] INFO  testCases.TC_02Webdevelopment - starts to select language.
+16:51:17.263 [main] INFO  testCases.TC_02Webdevelopment - language is successfully selected.
+16:51:17.646 [main] INFO  testCases.TC_02Webdevelopment - starts to scroll up the page.
+16:51:18.628 [main] INFO  testCases.TC_02Webdevelopment - page is scrolled up successfully.
+16:51:19.386 [main] INFO  testCases.TC_02Webdevelopment - starts to display the first course course details.
+16:51:23.464 [main] INFO  testCases.TC_02Webdevelopment - first course details is displayed successfully.
+16:51:23.840 [main] INFO  testCases.TC_02Webdevelopment - starts to display the second course course details.
